@@ -1,5 +1,6 @@
 {
     "name": "GD spook-a-thon!",
+    "version": "0.0.1",
     "description": "ENJOY!",
     "dependencies": {
         "device": "*"
